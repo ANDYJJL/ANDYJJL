@@ -22,7 +22,7 @@ Orange County — draw one, and dinner is decided. Single-file PWA, bilingual
 Live: https://eat-drink-play.pages.dev · the repo is its open-source demo
 edition (12 sample places, full app + backend schema).
 
-### [Bridgewater AI Agent](https://github.com/ANDYJJL/bridgewater-ai-agent)
+### [Bridgewater-Style AI Agent](https://github.com/ANDYJJL/bridgewater-style-ai-agent)
 
 An AI-agent investment research workflow in the Bridgewater style, built as
 my MGTA 495 (Generative AI for Business) group project at Rady: a
